@@ -11,4 +11,4 @@ Currently, my side projects consist of me dipping my toes in game dev and trying
 :snake: Python
 
 ## Other skills
--fluent in English, German, Hungarian and Romanian
+- fluent in English, German, Hungarian and Romanian
