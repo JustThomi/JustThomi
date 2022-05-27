@@ -9,3 +9,6 @@ Currently, my side projects consist of me dipping my toes in game dev and trying
 :video_game: Game development  
 :computer: C++  
 :snake: Python
+
+## Other skills
+:fluent in English, German, Hungarian and Romanian
