@@ -10,8 +10,3 @@ Currently, my side projects consist of me dipping my toes in game dev and trying
 :computer: C++  
 :snake: Python
 
-## Other skills
-- fluent in English, German, Hungarian and Romanian
-- Proficient with Godot engine
-- Figma, Blender, Photoshop, Illustrator, Aseprite
-- Some experience using: JavaScript, Flutter/Dart, Lua
