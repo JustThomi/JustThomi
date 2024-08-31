@@ -7,6 +7,5 @@ Currently, my side projects consist of me dipping my toes in game dev and trying
 
 ## Currently learning
 :video_game: Game development  
+:crab: Rust  
 :computer: C++  
-:snake: Python
-
